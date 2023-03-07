@@ -8,9 +8,10 @@
 import UIKit
 
 class ViewController: UIViewController {
-
+let array = "sree"
     override func viewDidLoad() {
         super.viewDidLoad()
+        print (array)
         // Do any additional setup after loading the view.
     }
 
